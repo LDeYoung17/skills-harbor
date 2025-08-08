@@ -1,0 +1,8 @@
+rootProject.name = 'skillsharbor-backend'
+
+include 'controlplane:entities'
+include 'controlplane:dal'
+include 'controlplane:bll'
+include 'training:entities'
+include 'training:dal'
+include 'training:bll'

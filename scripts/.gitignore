@@ -1,0 +1,13 @@
+# Ignore temp or backup files
+*.bak
+*.tmp
+*.log
+
+# Ignore OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore secrets or local config
+.env
+*.secret
+*local*.ps1
